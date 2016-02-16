@@ -1,5 +1,5 @@
 # java - validation
-Biblioteca de validação de dados desenvolvida em Java, possibilitando vericiar se campos preenchidos possuem as informações conforme o esperado pela aplicação.
+Biblioteca de validação de dados desenvolvida em Java, possibilitando verificar se campos preenchidos possuem as informações conforme o esperado pela aplicação.
 
 ## Regras
 #### Lista de regras `rules`
